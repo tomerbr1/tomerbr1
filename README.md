@@ -2,13 +2,13 @@
 
 Senior SDET & AI Integration Lead at **Akamai**, working on the Threat Intelligence team.
 
-I build automation infrastructure that scales (Python, Kubernetes, Argo Workflows) and lead AI integration into engineering workflows — shared toolkits, Context Engineering practices, and agentic coding patterns that turn AI from individual experimentation into team capability.
+I build automation infrastructure that scales (Python, Kubernetes, Argo Workflows) and lead AI integration into engineering workflows - shared toolkits, Context Engineering practices, and agentic coding patterns that turn AI from individual experimentation into team capability.
 
 ### What I'm working on
 
-- 🔧 **Automation infrastructure** — Python/Pytest on Kubernetes with Argo Workflows, Kafka, and GitHub Actions
-- 🤖 **AI for engineering workflows** — Building systematic approaches to integrate AI into development teams
-- 🧪 **RAG systems** — Multi-agent retrieval-augmented generation for document analysis
+- 🔧 **Automation infrastructure** - Python/Pytest on Kubernetes with Argo Workflows, Kafka, and GitHub Actions
+- 🤖 **AI for engineering workflows** - Building systematic approaches to integrate AI into development teams
+- 🧪 **RAG systems** - Multi-agent retrieval-augmented generation for document analysis
 
 ### Background
 
