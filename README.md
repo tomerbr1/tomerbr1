@@ -13,9 +13,7 @@ I build automation infrastructure that scales (Python, Kubernetes, Argo Workflow
 ### Background
 
 9+ years across cybersecurity, cloud infrastructure, and test automation.
-
 Imperva → Aqua Security → Akamai
-
 BSc Computer Science
 
 ### Featured Projects
