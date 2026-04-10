@@ -12,15 +12,15 @@ I build developer tools, automation systems, and AI integrations - mostly in Pyt
   </picture>
 </a>
 
-**[Orbit](https://github.com/tomerbr1/claude-orbit)** - A project management plugin for Claude Code. Slash commands, 30+ MCP tools, autonomous parallel execution, time tracking, and a web dashboard. ~26K lines of Python.
+**[Orbit](https://github.com/tomerbr1/claude-orbit)** - A project management plugin for Claude Code. Slash commands, 30+ MCP tools, autonomous parallel execution, time tracking, and a web dashboard.
 
 ### Projects
 
-| | |
-|---|---|
-| [claude-code-custom-system-prompt](https://github.com/tomerbr1/claude-code-custom-system-prompt) | Data-driven system prompt for Claude Code, validated over 456 API calls with structured evaluation |
-| [insurance-claim-rag-system](https://github.com/tomerbr1/insurance-claim-rag-system) | Multi-agent RAG system with 3-way routing, hierarchical chunking, and multi-grader evaluation |
-| [slack-presence](https://github.com/tomerbr1/slack-presence) | macOS menu bar app that automates Slack presence based on your schedule and call status |
+**[claude-code-custom-system-prompt](https://github.com/tomerbr1/claude-code-custom-system-prompt)** - Data-driven system prompt for Claude Code, validated over 456 API calls with structured evaluation
+
+**[insurance-claim-rag-system](https://github.com/tomerbr1/insurance-claim-rag-system)** - Multi-agent RAG system with 3-way routing, hierarchical chunking, and multi-grader evaluation
+
+**[slack-presence](https://github.com/tomerbr1/slack-presence)** - macOS menu bar app that automates Slack presence based on your schedule and call status
 
 ### Tech
 
