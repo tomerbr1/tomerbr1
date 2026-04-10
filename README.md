@@ -1,26 +1,27 @@
 ## Hey, I'm Tomer 👋
 
-Senior SDET & AI Integration Lead at **Akamai**, working on the Threat Intelligence team.
+I build developer tools, automation systems, and AI integrations - mostly in Python.
 
-I build automation infrastructure that scales (Python, Kubernetes, Argo Workflows) and lead AI integration into engineering workflows - shared toolkits, Context Engineering practices, and agentic coding patterns that turn AI from individual experimentation into team capability.
+### Flagship
 
-### What I'm working on
+<a href="https://github.com/tomerbr1/claude-orbit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_black.png">
+    <img src="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_black.png" alt="Orbit" width="200">
+  </picture>
+</a>
 
-- 🔧 **Automation infrastructure** - Python/Pytest on Kubernetes with Argo Workflows, Kafka, and GitHub Actions
-- 🤖 **AI for engineering workflows** - Building systematic approaches to integrate AI into development teams
-- 🧪 **RAG systems** - Multi-agent retrieval-augmented generation for document analysis
+**[Orbit](https://github.com/tomerbr1/claude-orbit)** - A project management plugin for Claude Code. Slash commands, 30+ MCP tools, autonomous parallel execution, time tracking, and a web dashboard. ~26K lines of Python.
 
-### Background
+### Projects
 
-9+ years across cybersecurity, cloud infrastructure, and test automation.
-
-Imperva → Aqua Security → Akamai
-
-BSc Computer Science
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
+| | |
+|---|---|
+| [claude-code-custom-system-prompt](https://github.com/tomerbr1/claude-code-custom-system-prompt) | Data-driven system prompt for Claude Code, validated over 456 API calls with structured evaluation |
 | [insurance-claim-rag-system](https://github.com/tomerbr1/insurance-claim-rag-system) | Multi-agent RAG system with 3-way routing, hierarchical chunking, and multi-grader evaluation |
 | [slack-presence](https://github.com/tomerbr1/slack-presence) | macOS menu bar app that automates Slack presence based on your schedule and call status |
+
+### Tech
+
+`Python` `Swift` `Kubernetes` `Argo Workflows` `Claude Code` `LlamaIndex` `FastAPI` `MCP`
