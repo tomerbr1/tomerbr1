@@ -2,7 +2,7 @@
 
 I build developer tools, automation systems, and AI integrations - mostly in Python.
 
-### Flagship
+### Projects
 
 <a href="https://github.com/tomerbr1/claude-orbit">
   <picture>
@@ -13,8 +13,6 @@ I build developer tools, automation systems, and AI integrations - mostly in Pyt
 </a>
 
 **[Orbit](https://github.com/tomerbr1/claude-orbit)** - A project management plugin for Claude Code. Slash commands, 30+ MCP tools, autonomous parallel execution, time tracking, and a web dashboard.
-
-### Projects
 
 **[claude-code-custom-system-prompt](https://github.com/tomerbr1/claude-code-custom-system-prompt)** - Data-driven system prompt for Claude Code, validated over 456 API calls with structured evaluation
 
