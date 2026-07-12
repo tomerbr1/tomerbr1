@@ -4,15 +4,15 @@ I build developer tools, automation systems, and AI integrations - mostly in Pyt
 
 ### Projects
 
-<a href="https://github.com/tomerbr1/claude-orbit">
+<a href="https://github.com/missioncache/missioncache">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_black.png">
-    <img src="https://raw.githubusercontent.com/tomerbr1/claude-orbit/main/assets/orbit_logo_black.png" alt="Orbit" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/missioncache/missioncache/main/assets/missioncache_logo_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/missioncache/missioncache/main/assets/missioncache_logo_black.png">
+    <img src="https://raw.githubusercontent.com/missioncache/missioncache/main/assets/missioncache_logo_black.png" alt="MissionCache" width="240">
   </picture>
 </a>
 
-**[Orbit](https://github.com/tomerbr1/claude-orbit)** - A project management plugin for Claude Code. Slash commands, 30+ MCP tools, autonomous parallel execution, time tracking, and a web dashboard.
+**[MissionCache](https://github.com/missioncache/missioncache)** - The project layer for AI coding tools (Claude Code, Codex, OpenCode, VSCode). Persistent plan/context/tasks across sessions, 36 MCP tools, autonomous parallel execution, time tracking, and a web dashboard.
 
 **[Presently](https://github.com/tomerbr1/presently)** - Stop ghosting people by accident. macOS menu bar app that syncs Slack presence with your calendar, call state, and work schedule.
 
